@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "title": "Lập trình Android cơ bản với Kotlin",
+    "description": "Khóa học cung cấp nền tảng vững chắc về phát triển ứng dụng di động Android bằng ngôn ngữ Kotlin, làm quen với Android Studio, Layout, ViewModel và Retrofit kết nối REST API.",
+    "categoryId": "1",
+    "instructor": "Nguyễn Văn A",
+    "price": 500000,
+    "duration": 30,
+    "thumbnail": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb?w=800",
+    "trailerUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "createdAt": "2026-10-10"
+  },
+  {
+    "id": "2",
+    "title": "Lập trình Flutter & Dart toàn diện",
+    "description": "Học cách xây dựng ứng dụng đa nền tảng iOS và Android từ một cơ sở mã nguồn duy nhất với Flutter SDK, làm chủ State Management (Provider/Bloc) và tích hợp API mượt mà.",
+    "categoryId": "1",
+    "instructor": "Trần Thị B",
+    "price": 650000,
+    "duration": 45,
+    "thumbnail": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=800",
+    "trailerUrl": "https://vjs.zencdn.net/v/oceans.mp4",
+    "createdAt": "2026-10-11"
+  },
+  {
+    "id": "3",
+    "title": "React Native & Expo từ con số 0",
+    "description": "Khóa học thực chiến xây dựng ứng dụng di động hoàn chỉnh với React Native, Expo, React Navigation, AsyncStorage và REST API kết hợp giao diện chuẩn di động.",
+    "categoryId": "1",
+    "instructor": "Lê Hoàng Nam",
+    "price": 600000,
+    "duration": 40,
+    "thumbnail": "https://images.unsplash.com/photo-1526498460520-4c246339dccb?w=800",
+    "trailerUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "4",
+    "title": "Lập trình iOS với Swift và SwiftUI",
+    "description": "Khám phá thế giới ứng dụng Apple với ngôn ngữ Swift hiện đại, thiết kế UI linh hoạt bằng SwiftUI, quản lý vòng đời ứng dụng và lưu trữ dữ liệu với CoreData/SwiftData.",
+    "categoryId": "1",
+    "instructor": "Phạm Quốc Tuấn",
+    "price": 800000,
+    "duration": 50,
+    "thumbnail": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800",
+    "trailerUrl": "https://www.w3schools.com/html/movie.mp4",
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "5",
+    "title": "Xây dựng Web Frontend với React.js",
+    "description": "Làm chủ tư duy component, Hooks, Redux Toolkit, React Router và tối ưu hiệu năng ứng dụng Single Page Application (SPA) chuẩn doanh nghiệp hiện đại.",
+    "categoryId": "2",
+    "instructor": "Hoàng Minh Đức",
+    "price": 550000,
+    "duration": 35,
+    "thumbnail": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800",
+    "trailerUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/friday.mp4",
+    "createdAt": "2026-10-09"
+  },
+  {
+    "id": "6",
+    "title": "Lập trình Backend chuyên nghiệp với Node.js",
+    "description": "Phát triển hệ thống Microservices và RESTful API bảo mật với Node.js, Express, cơ sở dữ liệu MongoDB/PostgreSQL, xác thực JWT và triển khai Docker.",
+    "categoryId": "2",
+    "instructor": "Đỗ Hải Đăng",
+    "price": 700000,
+    "duration": 42,
+    "thumbnail": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=800",
+    "trailerUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "createdAt": "2026-10-08"
+  },
+  {
+    "id": "7",
+    "title": "Fullstack Web Development với Next.js",
+    "description": "Trọn bộ kỹ năng lập trình Fullstack với Next.js App Router, Server Components, Server Actions, xác thực người dùng và tích hợp cổng thanh toán trực tuyến.",
+    "categoryId": "2",
+    "instructor": "Ngô Văn Hùng",
+    "price": 900000,
+    "duration": 60,
+    "thumbnail": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800",
+    "trailerUrl": "https://vjs.zencdn.net/v/oceans.mp4",
+    "createdAt": "2026-10-07"
+  },
+  {
+    "id": "8",
+    "title": "Nhập môn Trí tuệ nhân tạo & Machine Learning",
+    "description": "Nắm vững toán học cho AI, phân tích dữ liệu với Python (NumPy, Pandas, Scikit-learn), các thuật toán học có giám sát và không giám sát kinh điển.",
+    "categoryId": "3",
+    "instructor": "TS. Vũ Thanh Long",
+    "price": 850000,
+    "duration": 48,
+    "thumbnail": "https://images.unsplash.com/photo-1677442136019-21780efad99a?w=800",
+    "trailerUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "createdAt": "2026-10-06"
+  },
+  {
+    "id": "9",
+    "title": "Deep Learning & Thị giác máy tính với PyTorch",
+    "description": "Xây dựng các mạng nơ-ron tích chập (CNN), nhận diện vật thể YOLO, phân đoạn hình ảnh và huấn luyện mô hình học sâu trên GPU bằng thư viện PyTorch.",
+    "categoryId": "3",
+    "instructor": "Bùi Anh Quân",
+    "price": 950000,
+    "duration": 55,
+    "thumbnail": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=800",
+    "trailerUrl": "https://www.w3schools.com/html/movie.mp4",
+    "createdAt": "2026-10-05"
+  },
+  {
+    "id": "10",
+    "title": "Xây dựng ứng dụng Generative AI & LLMs",
+    "description": "Khóa học đón đầu xu hướng với Retrieval-Augmented Generation (RAG), Fine-tuning mô hình ngôn ngữ lớn, sử dụng LangChain và xây dựng AI Agent thực tế.",
+    "categoryId": "3",
+    "instructor": "TS. Đặng Mai Linh",
+    "price": 1200000,
+    "duration": 50,
+    "thumbnail": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800",
+    "trailerUrl": "https://vjs.zencdn.net/v/oceans.mp4",
+    "createdAt": "2026-10-04"
+  }
+]

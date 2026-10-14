@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Course Manager",
+    "slug": "course-manager-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.coursemanager.app"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
