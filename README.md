@@ -188,9 +188,3 @@ BT_tham_khao_giua_ky/
 ├── README.md                      # Tài liệu hướng dẫn sử dụng
 └── HUONG_DAN_THUYET_TRINH.md      # Kịch bản chi tiết quay video thuyết trình nộp bài
 ```
-
----
-
-## 👨‍💻 7. Sinh viên thực hiện
-- Dự án phục vụ bài tập giữa kỳ môn Lập trình Mobile App.
-- Hỗ trợ đầy đủ tài liệu thuyết trình tại `HUONG_DAN_THUYET_TRINH.md`.
